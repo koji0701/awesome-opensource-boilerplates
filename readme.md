@@ -32,9 +32,7 @@
 - [NextJS SaaS Starter](https://github.com/juliankoehn/nextjs-saas-starter) - NextJS 14 with Lucia and Stripe
 - [Nextacular](https://github.com/nextacular/nextacular) - Next.js SaaS boilerplate
 - [SaaStr](https://github.com/aloysius-tim/saas-react-starter-kit-boilerplate) - React SaaS starter kit
-- [React Boilerplate](https://github.com/petehunt/react-boilerplate) - Boilerplate for creating React npm package
 - [React Transform Boilerplate](https://github.com/gaearon/react-transform-boilerplate) - Webpack boilerplate with hot reloading
-- [Library Boilerplate](https://github.com/gaearon/library-boilerplate) - Opinionated boilerplate for React libraries
 - [React Redux minimal](https://github.com/flexdinesh/react-redux-boilerplate) - Minimal React-Redux boilerplate
 
 ### Node.js
