@@ -92,3 +92,7 @@
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=EinGuterWaran/awesome-opensource-boilerplates&type=Date)](https://star-history.com/#EinGuterWaran/awesome-opensource-boilerplates&Date)
