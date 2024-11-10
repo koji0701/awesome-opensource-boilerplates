@@ -82,7 +82,6 @@
 
 ### Android
 
-- [Android Bootstrap](https://github.com/AndroidBootstrap/android-bootstrap) - Template with tons of great open source tools
 - [Android Material Drawer Template](https://github.com/kanytu/android-material-drawer-template) - Navigation drawer for material design
 - [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture) - MVP architecture samples
 
