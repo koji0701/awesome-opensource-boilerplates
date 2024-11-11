@@ -68,7 +68,6 @@
 ### Go
 
 - [SaaS Startup Kit](https://github.com/go-saas/kit) - Golang open source SaaS kit
-- [Go React JSX Boilerplate](https://github.com/sharath/go-react-boilerplate) - React + Go web application starter
 
 ### Other
 
