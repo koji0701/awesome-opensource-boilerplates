@@ -8,6 +8,7 @@
 - [Web Development](#web-development)
  - [React & Next.js](#react--nextjs)
  - [Node.js](#nodejs)
+ - [Python](#python)
  - [Django](#django)
  - [Flask](#flask)
  - [Ruby on Rails](#ruby-on-rails)
@@ -43,6 +44,10 @@
 - [Node Express Mongoose Boilerplate](https://github.com/hagopj13/node-express-mongoose-boilerplate) - Production-ready REST API boilerplate
 - [Hackathon Starter](https://github.com/sahat/hackathon-starter) - Boilerplate for Node.js web applications
 
+### Python
+
+- [Rob's Awesome Python Template](https://github.com/tedivm/robs_awesome_python_template) - A versatile and modern Python template
+
 ### Django
 
 - [Django SaaS Boilerplate](https://github.com/PaulleDemon/Django-SAAS-Boilerplate) - Open source Django SaaS boilerplate
@@ -52,6 +57,7 @@
 
 - [Flask App Builder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application development framework
 - [Enferno Framework](https://github.com/level09/enferno) - Flask based framework
+- [tedivm's Flask]([https://github.com/level09/enferno](https://github.com/tedivm/tedivms-flask)) - Starter App with Flask and Celery
 
 ### Ruby on Rails
 
