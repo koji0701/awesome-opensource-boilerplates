@@ -57,10 +57,8 @@
 
 ### Flask
 
-- [SaaS Forge](https://github.com/saasforge/open-source-saas) - Open source Flask SaaS boilerplate
 - [Flask App Builder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application development framework
 - [Enferno Framework](https://github.com/level09/enferno) - Flask based framework
-- [Flask Boilerplate](https://github.com/melvin0008/FlaskBoilerplate) - Simple flask boilerplate with folder structures
 
 ### Ruby on Rails
 
