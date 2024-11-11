@@ -25,6 +25,7 @@
 
 ### React & Next.js
 
+- [Next.js SaaS Starter](https://github.com/leerob/next-saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui
 - [Next.js Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - Free and open source Next.js starter
 - [Next.js Subscription Payments](https://github.com/vercel/nextjs-subscription-payments) - Vercel's subscription payments starter
 - [Next Supabase Stripe Starter](https://github.com/KolbySisk/next-supabase-stripe-starter) - Next.js with Supabase and Stripe
