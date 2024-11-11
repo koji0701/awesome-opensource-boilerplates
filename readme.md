@@ -20,7 +20,6 @@
 ## Browser Extensions
 
 - [Extro](https://github.com/turbostarter/extro) - Open source browser extension starter kit
-- [Webextensions Webpack Boilerplate](https://github.com/fstanis/webextensions-webpack-boilerplate) - Using Webpack JS module manager
 
 ## Web Development
 
@@ -29,16 +28,11 @@
 - [Next.js Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - Free and open source Next.js starter
 - [Next.js Subscription Payments](https://github.com/vercel/nextjs-subscription-payments) - Vercel's subscription payments starter
 - [Next Supabase Stripe Starter](https://github.com/KolbySisk/next-supabase-stripe-starter) - Next.js with Supabase and Stripe
-- [NextJS SaaS Starter](https://github.com/juliankoehn/nextjs-saas-starter) - NextJS 14 with Lucia and Stripe
 - [Nextacular](https://github.com/nextacular/nextacular) - Next.js SaaS boilerplate
 - [SaaStr](https://github.com/aloysius-tim/saas-react-starter-kit-boilerplate) - React SaaS starter kit
-- [React Transform Boilerplate](https://github.com/gaearon/react-transform-boilerplate) - Webpack boilerplate with hot reloading
-- [React Redux minimal](https://github.com/flexdinesh/react-redux-boilerplate) - Minimal React-Redux boilerplate
 
 ### Node.js
 
-- [SaaS Starter](https://github.com/cedrickchee/saas-starter) - Open source SaaS starter kit
-- [ULTIMATE BACKEND](https://github.com/juicycleff/ultimate-backend) - Backend boilerplate
 - [SaaSgear](https://github.com/JSLancerTeam/saasgear) - Full stack SaaS boilerplate
 - [BoxyHQ SaaS Starter Kit](https://github.com/boxyhq/saas-starter-kit) - Enterprise-ready SaaS starter kit
 - [SAAS-Starter-Kit](https://github.com/Saas-Starter-Kit/Saas-Kit-prisma) - Prisma based SaaS kit
@@ -52,8 +46,6 @@
 
 - [Django SaaS Boilerplate](https://github.com/PaulleDemon/Django-SAAS-Boilerplate) - Open source Django SaaS boilerplate
 - [djangorocket](https://github.com/ernestofgonzalez/djangorocket) - Django SaaS starter
-- [Django Hackathon Starter](https://github.com/DrkSephy/django-hackathon-starter) - Django web applications boilerplate
-- [Django Starter Template](https://github.com/fasouto/django-starter-template) - Project template following best practices
 
 ### Flask
 
@@ -63,7 +55,6 @@
 ### Ruby on Rails
 
 - [Rails Tabler Starter](https://github.com/tarunvelli/rails-tabler-starter) - Ruby on Rails starter kit
-- [Rails Bootstrap](https://github.com/RailsApps/rails-bootstrap) - Starter App for Rails and Bootstrap
 
 ### Go
 
@@ -77,7 +68,6 @@
 
 ### Android
 
-- [Android Material Drawer Template](https://github.com/kanytu/android-material-drawer-template) - Navigation drawer for material design
 - [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture) - MVP architecture samples
 
 ### iOS
