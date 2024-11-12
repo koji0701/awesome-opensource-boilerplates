@@ -1,4 +1,4 @@
-# Awesome Opensource Boilerplates [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badges/)
+# Awesome Open Source Boilerplates [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badges/)
 
 > A curated list of open source boilerplates and starter templates to kickstart your next project.
 
