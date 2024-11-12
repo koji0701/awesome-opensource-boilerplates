@@ -17,6 +17,7 @@
 - [Mobile Development](#mobile-development)
  - [Android](#android)
  - [iOS](#ios)
+ - [React Native](#react-native)
 
 ## Browser Extensions
 
@@ -80,6 +81,14 @@
 ### iOS
 
 - [Swift 5 Module Template](https://github.com/fulldecent/swift5-module-template) - Boilerplate for reusable Swift 5 modules
+
+### React Native
+
+- [Infinite Red Boilerplate](https://github.com/infinitered/ignite) - Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more!
+- [thecodingmachine boilerplate](https://github.com/thecodingmachine/react-native-boilerplate) - A React Native template for building solid applications 🐙, using JavaScript 💛 or Typescript 💙
+- [obytes boilerplate](https://github.com/obytes/react-native-template-obytes) - A template for your next React Native project: Expo, PNPM, TypeScript, TailwindCSS, Husky, EAS, GitHub Actions, Env Vars, expo-router, react-query, react-hook-form
+- [wataru-maeda boilerplate](https://github.com/wataru-maeda/react-native-boilerplate) - Expo + Redux + React Navigation pre-setup typescript template (expo SDK 51)
+- [Luna boilerplate](https://github.com/LunatiqueCoder/luna) - Luna - a React Native + Next.js template. Built with TypeScript ❤️
 
 ## Contribute
 
