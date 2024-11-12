@@ -13,6 +13,7 @@
  - [Flask](#flask)
  - [Ruby on Rails](#ruby-on-rails)
  - [Go](#go)
+ - [.NET Core](#NET-core)
  - [Other](#other)
 - [Mobile Development](#mobile-development)
  - [Android](#android)
@@ -62,6 +63,10 @@
 ### Ruby on Rails
 
 - [Rails Tabler Starter](https://github.com/tarunvelli/rails-tabler-starter) - Ruby on Rails starter kit
+
+### .NET Core
+
+- [Clean Architecture and Domain Driven Design Template](https://github.com/mikolaj-jankowski/Clean-Architecture-And-Domain-Driven-Design-Solution-Template) - .NET Core solution tamplate for creating your own application using Clean Architecture, utilizing building blocks from Domain-Driven Design. 
 
 ### Go
 
