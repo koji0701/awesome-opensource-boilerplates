@@ -88,6 +88,10 @@
 
 - [Swift 5 Module Template](https://github.com/fulldecent/swift5-module-template) - Boilerplate for reusable Swift 5 modules
 
+### Flutter
+
+- [ShipFlutter base template](https://github.com/marcelpinto/ship-flutter-template) - A simple Flutter template with state management (signals) and dependency injection (lite_ref)
+
 ### React Native
 
 - [Infinite Red Boilerplate](https://github.com/infinitered/ignite) - Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more!
