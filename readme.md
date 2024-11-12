@@ -13,7 +13,7 @@
  - [Flask](#flask)
  - [Ruby on Rails](#ruby-on-rails)
  - [Go](#go)
- - [.NET Core](#.NET-core)
+ - [.NET Core](#NET-core)
  - [Other](#other)
 - [Mobile Development](#mobile-development)
  - [Android](#android)
