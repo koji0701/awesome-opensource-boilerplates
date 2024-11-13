@@ -29,7 +29,7 @@
 
 ### React & Next.js
 
-- [Open SaaS -- React/NodeJS/Prisma](https://opensaas.sh) - Stripe or Lemon Squeezy, OpenAI API app examples, AWS S3 file upload, Admin dashboard, & Blog w/ Astro.
+- [Open SaaS -- React/Node.js/Prisma](https://opensaas.sh) - Stripe or Lemon Squeezy, OpenAI API app examples, AWS S3 file upload, Admin dashboard, & Blog w/ Astro.
 - [Next.js SaaS Starter](https://github.com/leerob/next-saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
 - [Next.js Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - Free and open source Next.js starter.
 - [Next.js Subscription Payments](https://github.com/vercel/nextjs-subscription-payments) - Vercel's subscription payments starter.
@@ -97,7 +97,7 @@
 ### React Native
 
 - [Infinite Red Boilerplate](https://github.com/infinitered/ignite) - Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more.
-- [thecodingmachine boilerplate](https://github.com/thecodingmachine/react-native-boilerplate) - A React Native template for building solid applications 🐙, using JavaScript 💛 or Typescript 💙..
+- [thecodingmachine boilerplate](https://github.com/thecodingmachine/react-native-boilerplate) - A React Native template for building solid applications 🐙, using JavaScript 💛 or Typescript 💙.
 - [obytes boilerplate](https://github.com/obytes/react-native-template-obytes) - A template for your next React Native project: Expo, PNPM, TypeScript, TailwindCSS, Husky, EAS, GitHub Actions, Env Vars, expo-router, react-query, react-hook-form.
 - [wataru-maeda boilerplate](https://github.com/wataru-maeda/react-native-boilerplate) - Expo + Redux + React Navigation pre-setup typescript template (expo SDK 51).
 - [Luna boilerplate](https://github.com/LunatiqueCoder/luna) - Luna - a React Native + Next.js template. Built with TypeScript.
