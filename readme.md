@@ -23,6 +23,7 @@
 ## Browser Extensions
 
 - [Extro](https://github.com/turbostarter/extro) - Open source browser extension starter kit
+- [chrome extension svelte-typescript boilerplate](https://github.com/NekitCorp/chrome-extension-svelte-typescript-boilerplate)
 
 ## Web Development
 
