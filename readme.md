@@ -69,7 +69,7 @@
 
 ### .NET Core
 
-- [Clean Architecture and Domain Driven Design Template](https://github.com/mikolaj-jankowski/Clean-Architecture-And-Domain-Driven-Design-Solution-Template) - .NET Core solution tamplate for creating your own application using Clean Architecture, utilizing building blocks from Domain-Driven Design.
+- [Clean Architecture and Domain Driven Design Template](https://github.com/mikolaj-jankowski/Clean-Architecture-And-Domain-Driven-Design-Solution-Template) - .NET Core solution template for creating your own application using Clean Architecture, utilizing building blocks from Domain-Driven Design.
 - [FullStackHero .NET 8 Starter Kit](https://github.com/fullstackhero/dotnet-starter-kit) - With ASP.NET Core Web API & Blazor Client
 
 ### Go
