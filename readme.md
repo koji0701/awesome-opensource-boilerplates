@@ -61,7 +61,7 @@
 
 - [Flask App Builder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application development framework
 - [Enferno Framework](https://github.com/level09/enferno) - Flask based framework
-- [tedivm's Flask]([https://github.com/level09/enferno](https://github.com/tedivm/tedivms-flask)) - Starter App with Flask and Celery
+- [tedivm's Flask](https://github.com/tedivm/tedivms-flask) - Starter App with Flask and Celery
 
 ### Ruby on Rails
 
