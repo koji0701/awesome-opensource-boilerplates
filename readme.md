@@ -12,14 +12,16 @@
   - [Django](#django)
   - [Flask](#flask)
   - [Ruby on Rails](#ruby-on-rails)
+  - [.NET Core](#net-core)
   - [Go](#go)
-  - [.NET Core](#NET-core)
   - [Other](#other)
 - [Mobile Development](#mobile-development)
   - [Android](#android)
   - [iOS](#ios)
+  - [Flutter](#flutter)
   - [React Native](#react-native)
-
+- [Star History](#star-history)
+  
 ## Browser Extensions
 
 - [Extro](https://github.com/turbostarter/extro) - Open source browser extension starter kit.
@@ -102,9 +104,6 @@
 - [wataru-maeda boilerplate](https://github.com/wataru-maeda/react-native-boilerplate) - Expo + Redux + React Navigation pre-setup typescript template (expo SDK 51).
 - [Luna boilerplate](https://github.com/LunatiqueCoder/luna) - Luna - a React Native + Next.js template. Built with TypeScript.
 
-## Contribute
-
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 ## Star History
 
