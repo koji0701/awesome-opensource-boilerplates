@@ -6,9 +6,9 @@
   <br>
   <br>
   <div>
-    <a href="/boilerplatehublogo.svg">
+    <a href="https://boilerplatehub.com?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome-opensource-boilerplates">
       <div>
-        <img src="https://csv-viewer-online.github.io/boilerplatehub.svg" width="400" alt="BoilerplateHub">
+        <img src="/boilerplatehublogo.svg" width="400" alt="BoilerplateHub">
       </div>
       <br>
       <b>Save weeks of setup time by choosing proven starter code that matches your tech stack.</b>
