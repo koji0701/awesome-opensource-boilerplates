@@ -2,6 +2,28 @@
 
 > A curated list of open source boilerplates and starter templates to kickstart your next project.
 
+<div align="center">
+  <br>
+  <br>
+  <div>
+    <a href="/boilerplatehublogo.svg">
+      <div>
+        <img src="https://csv-viewer-online.github.io/boilerplatehub.svg" width="400" alt="BoilerplateHub">
+      </div>
+      <br>
+      <b>Save weeks of setup time by choosing proven starter code that matches your tech stack.</b>
+      <div>
+        <sub>Premium boilerplates carefully vetted and maintained by humans.</sub>
+        <br>
+        <sup>Looking for full-featured alternatives to open source starters? Check out our premium collection.</sup>
+      </div>
+    </a>
+  </div>
+  <br>
+  <br>
+  <hr>
+</div>
+
 ## Contents
 
 - [Browser Extensions](#browser-extensions) 
