@@ -1,6 +1,6 @@
-# Awesome Open Source Boilerplates [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badges/)
+# Awesome Open Source SaaS Boilerplates [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badges/)
 
-> A curated list of open source boilerplates and starter templates to kickstart your next project.
+> A curated collection of production-ready SaaS boilerplates and starter templates to build your next software-as-a-service project. Features enterprise-grade stacks from React/Node.js to Python/Django solutions.
 
 <div align="center">
   <br>
@@ -26,7 +26,8 @@
 
 ## Contents
 
-- [Browser Extensions](#browser-extensions) 
+- [Open Source SaaS Boilerplates](#open-source-saas-boilerplates)
+- [Browser Extensions](#browser-extensions)
 - [Web Development](#web-development)
   - [React & Next.js](#react--nextjs)
   - [Node.js](#nodejs)
@@ -43,7 +44,24 @@
   - [Flutter](#flutter)
   - [React Native](#react-native)
 - [Star History](#star-history)
-  
+
+## Open Source SaaS Boilerplates
+
+Production-ready, open source templates for building software-as-a-service applications:
+
+- [Open SaaS](https://opensaas.sh) - React/Node.js/Prisma stack with Stripe/Lemon Squeezy, OpenAI, AWS S3, admin dashboard & blog.
+- [BoxyHQ SaaS Starter Kit](https://github.com/boxyhq/saas-starter-kit) - Enterprise-ready with SSO, audit logs, and multi-tenant features.
+- [Next.js SaaS Starter](https://github.com/leerob/next-saas-starter) - Next.js with Postgres, Stripe, and shadcn/ui.
+- [SaaSgear](https://github.com/JSLancerTeam/saasgear) - Full-stack with authentication, billing, team management.
+- [Nextacular](https://github.com/nextacular/nextacular) - Next.js with workspaces and subscription management.
+- [SaaStr](https://github.com/aloysius-tim/saas-react-starter-kit-boilerplate) - React starter with authentication and billing.
+- [SAAS-Starter-Kit](https://github.com/Saas-Starter-Kit/Saas-Kit-prisma) - Prisma-based kit with user management.
+- [SaaS Boilerplate by Async Labs](https://github.com/async-labs/saas) - Production-ready with team collaboration.
+- [Django SaaS Boilerplate](https://github.com/PaulleDemon/Django-SAAS-Boilerplate) - Python/Django solution with subscription handling.
+- [djangorocket](https://github.com/ernestofgonzalez/djangorocket) - Django SaaS starter.
+- [SupaNuxt SaaS](https://github.com/JavascriptMick/supanuxt-saas) - Nuxt3 boilerplate with Supabase backend.
+- [SaaS Startup Kit](https://github.com/go-saas/kit) - Golang kit with modern microservices architecture.
+
 ## Browser Extensions
 
 - [Extro](https://github.com/turbostarter/extro) - Open source browser extension starter kit.
