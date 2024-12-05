@@ -11,11 +11,9 @@
         <img src="/boilerplatehublogo.svg" width="400" alt="BoilerplateHub">
       </div>
       <br>
-      <b>Save weeks of setup time by choosing proven starter code that matches your tech stack.</b>
+      <b>While these open source boilerplates are great starting points, premium SaaS boilerplates offer more features and dedicated support.</b>
       <div>
-        <sub>Premium boilerplates carefully vetted and maintained by humans.</sub>
-        <br>
-        <sup>Looking for full-featured alternatives to open source starters? Check out our premium collection.</sup>
+        <sub>Premium, human-vetted boilerplates for your tech stack</sub>
       </div>
     </a>
   </div>
