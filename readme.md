@@ -101,6 +101,7 @@ Production-ready, open source templates for building software-as-a-service appli
 - [SaaStr](https://github.com/aloysius-tim/saas-react-starter-kit-boilerplate) - React SaaS starter kit.
 - [fireact.dev](https://fireact.dev) - React/Typescript stack with Stripe, Firebase and i18n multilingual for B2B SaaS.
 - [Platforms Starter Kit](https://github.com/vercel/platforms) - The all-in-one starter kit for building multi-tenant applications.
+- [SupaSocial - Social Media Starter](https://github.com/kojiwong/supabase-react-social-media-starter) - Open-source React, Supabase, Zustand, & Tailwind CSS social media starter template
 
 ### Node.js
 
