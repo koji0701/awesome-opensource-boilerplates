@@ -48,6 +48,12 @@
 
 - [Open Source SaaS Boilerplates](#open-source-saas-boilerplates)
 - [Browser Extensions](#browser-extensions)
+- [Mobile Development](#mobile-development)
+  - [Android](#android)
+  - [iOS](#ios)
+  - [Flutter](#flutter)
+  - [React Native](#react-native)
+- [Social Networking](#social-networking)
 - [Web Development](#web-development)
   - [React & Next.js](#react--nextjs)
   - [Node.js](#nodejs)
@@ -58,11 +64,6 @@
   - [.NET Core](#net-core)
   - [Go](#go)
   - [Other](#other)
-- [Mobile Development](#mobile-development)
-  - [Android](#android)
-  - [iOS](#ios)
-  - [Flutter](#flutter)
-  - [React Native](#react-native)
 - [Star History](#star-history)
 
 ## Open Source SaaS Boilerplates
@@ -87,6 +88,33 @@ Production-ready, open source templates for building software-as-a-service appli
 
 - [Extro](https://github.com/turbostarter/extro) - Open source browser extension starter kit.
 - [chrome extension svelte-typescript boilerplate](https://github.com/NekitCorp/chrome-extension-svelte-typescript-boilerplate) - Boilerplate for Chrome Extension Svelte Typescript project.
+
+## Mobile Development
+
+### Android
+
+- [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture) - MVP architecture samples.
+
+### iOS
+
+- [Swift 5 Module Template](https://github.com/fulldecent/swift5-module-template) - Boilerplate for reusable Swift 5 modules.
+
+### Flutter
+
+- [ShipFlutter base template](https://github.com/marcelpinto/ship-flutter-template) - A simple Flutter template with state management (signals) and dependency injection (lite_ref).
+
+### React Native
+
+- [Infinite Red Boilerplate](https://github.com/infinitered/ignite) - Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more.
+- [thecodingmachine boilerplate](https://github.com/thecodingmachine/react-native-boilerplate) - A React Native template for building solid applications 🐙, using JavaScript 💛 or Typescript 💙.
+- [obytes boilerplate](https://github.com/obytes/react-native-template-obytes) - A template for your next React Native project: Expo, PNPM, TypeScript, TailwindCSS, Husky, EAS, GitHub Actions, Env Vars, expo-router, react-query, react-hook-form.
+- [wataru-maeda boilerplate](https://github.com/wataru-maeda/react-native-boilerplate) - Expo + Redux + React Navigation pre-setup typescript template (expo SDK 51).
+
+## Social Networking
+
+Starter templates and boilerplates for building social networking applications.
+
+- [SupaSocial - Supabase + React Social Media Starter](https://github.com/kojiwong/supabase-react-social-media-starter) - React, Supabase, Zustand, & Tailwind CSS social media starter with user auth, profiles, friend system, & real-time updates.
 
 ## Web Development
 
@@ -144,27 +172,6 @@ Production-ready, open source templates for building software-as-a-service appli
 ### Other
 
 - [SupaNuxt SaaS](https://github.com/JavascriptMick/supanuxt-saas) - Open source Nuxt3 SaaS boilerplate.
-
-## Mobile Development
-
-### Android
-
-- [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture) - MVP architecture samples.
-
-### iOS
-
-- [Swift 5 Module Template](https://github.com/fulldecent/swift5-module-template) - Boilerplate for reusable Swift 5 modules.
-
-### Flutter
-
-- [ShipFlutter base template](https://github.com/marcelpinto/ship-flutter-template) - A simple Flutter template with state management (signals) and dependency injection (lite_ref).
-
-### React Native
-
-- [Infinite Red Boilerplate](https://github.com/infinitered/ignite) - Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more.
-- [thecodingmachine boilerplate](https://github.com/thecodingmachine/react-native-boilerplate) - A React Native template for building solid applications 🐙, using JavaScript 💛 or Typescript 💙.
-- [obytes boilerplate](https://github.com/obytes/react-native-template-obytes) - A template for your next React Native project: Expo, PNPM, TypeScript, TailwindCSS, Husky, EAS, GitHub Actions, Env Vars, expo-router, react-query, react-hook-form.
-- [wataru-maeda boilerplate](https://github.com/wataru-maeda/react-native-boilerplate) - Expo + Redux + React Navigation pre-setup typescript template (expo SDK 51).
 
 ## Star History
 
